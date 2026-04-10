@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+Customer-Churn-Prediction
 Machine Learning project to predict customer churn using Logistic Regression
 Result:
 Achieved accuracy of 81.30%
